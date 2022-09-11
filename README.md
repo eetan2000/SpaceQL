@@ -14,3 +14,13 @@
 
 ## Queries
 
+![alt-text](https://github.com/eetan2000/SpaceQL/blob/main/img/queries.gif)
+
+## Add
+
+![alt-text](https://github.com/eetan2000/SpaceQL/blob/main/img/add.gif)
+
+## Delete/Update
+
+![alt-text](https://github.com/eetan2000/SpaceQL/blob/main/img/delete.gif)
+
